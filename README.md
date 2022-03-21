@@ -5,7 +5,7 @@
 1. <canvas> - http://kursjs.pl/kurs/canvas/canvas.php
 2. <svg> - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 3. inkscape
-4. Keyboard JS
+4. Keyboard JS (e.code, e.key, e.which)
 5. querySelector, getElement...., addListener, setInterval, setTimeout
 ```
 ```js
