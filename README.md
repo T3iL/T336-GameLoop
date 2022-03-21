@@ -6,7 +6,10 @@
 2. <svg> - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 3. inkscape
 4. Keyboard JS
-5. setInterval, setTimeout
+5. querySelector, getElement...., addListener, setInterval, setTimeout
+```
+```js
+    let blockLeft = parseInt(window.getComputedStyle(block).getPropertyValue("left"));
 ```
 
 ### --------ZAD
