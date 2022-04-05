@@ -20,11 +20,11 @@ T33601 - Przygotuj własną wersję gry T-Rex https://chrome.google.com/webstore
 - wersja SVG
 - wersja Canvas
 
-Dodatkowe zadania
-- zmiana prędkości
-- losowanie położenia przeszkód
+Dodatkowe zadania (ZADANIE DOMOWE 5.04.2022)
+- zmiana prędkości po upływie 20 sekund
+- losowanie położenia przeszkód (pojawiają się wcześniej lub później w granicach)
 
-T33602 - Przygotuj grę 
+T33602 - Przygotuj grę Memory.
 ```
 ### --------Links
 https://github.com/T3iL/T336-GameLoop
